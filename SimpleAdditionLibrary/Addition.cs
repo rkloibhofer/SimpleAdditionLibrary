@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SimpleAdditionLibrary
 {
-    public class Class1
+    public static class Addition
     {
+		public static int AdditionInteger(int firstSummand, int secondSummand)
+		{
+			// Test
+			return firstSummand + secondSummand;
+		}
     }
 }
