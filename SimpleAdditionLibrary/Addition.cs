@@ -10,7 +10,7 @@ namespace SimpleAdditionLibrary
     {
 		public static int AdditionInteger(int firstSummand, int secondSummand)
 		{
-			// Test
+			// Test Test Test
 			return firstSummand + secondSummand;
 		}
     }
